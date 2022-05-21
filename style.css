@@ -101,7 +101,7 @@ p {
 }
 
 @media (max-width: 700px){
-    img{
+    .home-img{
         display: none;
     }
     .link{
