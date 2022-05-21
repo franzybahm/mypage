@@ -99,3 +99,13 @@ p {
     box-shadow: var(--box-shadow);
     color: white;
 }
+
+@media (max-width: 700px){
+    img{
+        display: none;
+    }
+    .link{
+        display: flex;
+        justify-content: center;
+    }
+}
